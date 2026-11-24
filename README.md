@@ -1,4 +1,4 @@
-# QuantLab
+# Axon
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white" />
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Data-Real%20Candles%20Only-critical" />
 </p>
 
-**QuantLab** is a professional-grade quantitative trading platform built for Indian **equity** markets. It connects to **Angel One SmartAPI** for real historical data, runs sandboxed Python strategies, simulates real Indian market charges (STT, GST, SEBI, Stamp Duty), and visualizes everything through a premium Next.js dashboard with TradingView Lightweight Charts, ECharts, and the Monaco Editor.
+**Axon** is a professional-grade quantitative trading platform built for Indian **equity** markets. It connects to **Angel One SmartAPI** for real historical data, runs sandboxed Python strategies, simulates real Indian market charges (STT, GST, SEBI, Stamp Duty), and visualizes everything through a premium Next.js dashboard with TradingView Lightweight Charts, ECharts, and the Monaco Editor.
 
 > **Scope: equities only.** QuantLab trades cash equities (NSE/BSE delivery and intraday). Options, futures, and the Dhan HQ pipeline have been removed — there is no options strategy builder, no F&O bhavcopy import, and no Dhan integration. Every feature below operates on equity candles.
 
